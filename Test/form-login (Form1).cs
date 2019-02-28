@@ -48,7 +48,7 @@ namespace projekat_forme_izgled
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Sifra = password.Text;
+          /*  Sifra = password.Text;
             string k = Sifra;
             int c = Convert.ToInt32(k);
             OracleConnection con = null;
@@ -109,7 +109,7 @@ namespace projekat_forme_izgled
                     con.Close();
 
                 con = null;
-            }
+            }*/
         }
 
         private void label4_MouseClick(object sender, MouseEventArgs e)
