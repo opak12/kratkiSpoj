@@ -1,0 +1,21 @@
+c:\users\krstic\documents\visual studio 2013\Projects\Test\Test\bin\Debug\Test.exe.config
+c:\users\krstic\documents\visual studio 2013\Projects\Test\Test\bin\Debug\Test.exe
+c:\users\krstic\documents\visual studio 2013\Projects\Test\Test\bin\Debug\Test.pdb
+c:\users\krstic\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\krstic\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.Form1.resources
+c:\users\krstic\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.Properties.Resources.resources
+c:\users\krstic\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+c:\users\krstic\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.exe
+c:\users\krstic\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.pdb
+c:\users\krstic\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.FormaGrana.resources
+E:\Test\Test\bin\Debug\Test.exe.config
+E:\Test\Test\bin\Debug\Test.exe
+E:\Test\Test\bin\Debug\Test.pdb
+E:\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\Test\Test\obj\Debug\Test.Form1.resources
+E:\Test\Test\obj\Debug\Test.FormaGrana.resources
+E:\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+E:\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Test\Test\obj\Debug\Test.exe
+E:\Test\Test\obj\Debug\Test.pdb
