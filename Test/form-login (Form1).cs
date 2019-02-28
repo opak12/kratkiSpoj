@@ -110,6 +110,7 @@ namespace projekat_forme_izgled
 
                 con = null;
             }*/
+            //kisa je padala miki
         }
 
         private void label4_MouseClick(object sender, MouseEventArgs e)
