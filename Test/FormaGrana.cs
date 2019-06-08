@@ -1,4 +1,5 @@
-﻿using System;
+﻿using projekat_forme_izgled;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -8,6 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using projekat_forme_izgled;
 
 namespace Test
 {
@@ -15,55 +17,31 @@ namespace Test
     {
         Grana grana;
         Cvor izvor;
+        Form1 formica;
         Cvor odrediste;
-        public FormaGrana(Cvor izvor,Cvor odrediste,Grana preneta_grana)
+        int idgrana;
+        public FormaGrana(Form1 f,int id,Cvor izvor,Cvor odrediste,Grana preneta_grana)
         {
+            formica = f;
             this.izvor = izvor;
             this.odrediste = odrediste;
             this.grana = preneta_grana;
+            idgrana = id;
             if (preneta_grana == null)
             {
-                grana = new Grana(izvor, odrediste, 0);
+                grana = new Grana(id,izvor, odrediste, 0);
                 izvor.grane.Add(grana);
             }
             InitializeComponent();
             osveziListbox();
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.FlatAppearance.BorderColor = Color.DimGray;
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             this.Close();
         }
-       
-        private void button2_Click(object sender, EventArgs e)
-        {
-            if (radioButton1.Checked == true)
-            {
-               // Debugger.Break();
-                Komponenta k = new Otpornik(10, "R1");
-                k.slika = Image.FromFile("opt.png");
-                grana.komponente.Add(k);
-                grana.brojkom++;
-                osveziListbox();
-            }
-            if (radioButton2.Checked == true)
-            {
-                Komponenta k = new NaponskiGenerator(10, "E1", true);
-                k.slika = Image.FromFile("napon.png");
-                grana.komponente.Add(k);
-                grana.brojkom++;
-                osveziListbox();
-            }
-            if (radioButton3.Checked == true)
-            {
-                Komponenta k = new StrujniGenerator(10, "J1",true);
-                k.slika = Image.FromFile("struja.png");
-                grana.komponente.Add(k);
-                grana.brojkom++;
-                osveziListbox();
-            }
-        }
-
         private void button3_Click(object sender, EventArgs e)
         {
             if (listBox1.SelectedIndex != -1)
@@ -81,6 +59,27 @@ namespace Test
             {
                 listBox1.Items.Add(k.uString());
             }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form2 f = new Form2(formica,grana);
+            f.ShowDialog();
+            osveziListbox();
+        }  
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            form_struja fs = new form_struja(1, grana);
+            fs.ShowDialog();
+            osveziListbox();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            form_struja fs = new form_struja(0, grana);
+            fs.ShowDialog();
+            osveziListbox();
         }
     }
 }

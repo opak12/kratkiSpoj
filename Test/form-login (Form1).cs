@@ -8,31 +8,72 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Oracle.ManagedDataAccess.Client;
+using Test;
 
 namespace projekat_forme_izgled
 {
     public partial class Formlogin : Form
     {
         private string sifra;
-
+        private string user;
+        private bool watermark1 = true;
+        private bool watermark2 = true;
         public String Sifra
         {get{ return sifra;}set { sifra = password.Text; } }
-
         private bool prikazSifre=true; // 1 prikazujemo *, 0 prikazujemo slova
         public Formlogin()
         {
             InitializeComponent();
-            password.PasswordChar = '*';
-          
-            button2.FlatStyle = FlatStyle.Flat;
+            this.CenterToScreen();
+            this.ActiveControl = label3;
+            panel4.Visible = false;
+            password.PasswordChar = '\0';            
+            button2.Visible = false;         
+            textBox1.Text = "User name";
+            password.Text = "Password";
+            textBox1.ForeColor = Color.Gray;
+            password.ForeColor = Color.Gray;
+            password.Visible = false;
+            button1.Visible = false;
+            this.textBox1.GotFocus += (source, e) =>
+            {
+                if (watermark1)
+                {
+                    watermark1 = false;
+                    textBox1.Text = "";
+                    textBox1.ForeColor = Color.Black;
+                }
+            };
+            this.textBox1.LostFocus += (source, e) =>
+            {
+                if (!watermark1 && string.IsNullOrEmpty(textBox1.Text))
+                {
+                    watermark1 = true;
+                    textBox1.Text = "User name";
+                    textBox1.ForeColor = Color.Gray;
+                }
+            };
 
-            button2.FlatAppearance.BorderColor = Color.Navy;
-            button2.FlatAppearance.BorderSize = 1;
-           
-           
-
-          
-            
+           this.password.GotFocus += (source, e) =>
+            {
+                if (watermark2)
+                {                  
+                   watermark2 = false;
+                    password.Text = "";
+                    password.PasswordChar = '*';
+                    password.ForeColor = Color.Black;
+                }
+            };
+            this.textBox1.LostFocus += (source, e) =>
+            {
+                if (!watermark2 && string.IsNullOrEmpty(password.Text))
+                {
+                    password.PasswordChar = '\0';
+                    watermark1 = true;
+                    password.Text = "Password";
+                    password.ForeColor = Color.Gray;
+                }
+            };
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -40,64 +81,88 @@ namespace projekat_forme_izgled
             prikazSifre = !prikazSifre;
             password.PasswordChar = prikazSifre ? '*' : '\0';
         }
-
         private void panel2_Paint(object sender, PaintEventArgs e)
         {
-
+        }
+        private void button2_Click(object sender, EventArgs e)
+        {           
+                Sifra = password.Text;
+                string k = Sifra;
+                OracleConnection con = null;
+                string conString = "Data Source = gislab-oracle.elfak.ni.ac.rs:1521/SBP_PDB; User Id = S16171; Password = S16171;";
+                try
+                {
+                    con = new OracleConnection(conString);
+                    con.Open();
+                    StringBuilder strSQL = new StringBuilder();
+                    strSQL.Append("SELECT COUNT(*) ");
+                    strSQL.Append(" FROM PROFESOR ");
+                    strSQL.Append(" WHERE Sifra= :k and KORISNICKI_NALOG= " + "'" + textBox1.Text + "'");
+                    OracleCommand cmd = new OracleCommand(strSQL.ToString(), con);
+                    cmd.CommandType = System.Data.CommandType.Text;
+                    OracleParameter param = new OracleParameter("k", OracleDbType.Varchar2);
+                    param.Value = k;
+                    cmd.Parameters.Add(param);
+                    decimal brojFilmova = (decimal)cmd.ExecuteScalar();
+                    if (brojFilmova >= 1)
+                    {                       
+                        Loading f = new Loading(1, "profa", password.Text, textBox1.Text,this);
+                        f.Show();
+                    }
+                    else
+                    {
+                    MessageBox.Show("Pogresna sifra ili korisnicki nalog!", "Greska", MessageBoxButtons.OK, MessageBoxIcon.Error);                    
+                    }
+                }
+                catch (Exception ec)
+                {
+                    Console.WriteLine("Doslo je do greske prilikom pristupanja bazi podataka: " + ec.Message);
+                }
+                finally
+                {
+                    if (con != null && con.State == System.Data.ConnectionState.Open)
+                        con.Close();
+                    con = null;
+                }           
+        }
+        private void label4_Click(object sender, EventArgs e)
+        {
+           Loading f = new Loading(0,"student","","",this);            
+            f.Show();           
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void button4_Click(object sender, EventArgs e)
         {
-          /*  Sifra = password.Text;
-            string k = Sifra;
-            int c = Convert.ToInt32(k);
+            int pomZANalog = -1;
             OracleConnection con = null;
-            string conString = "Data Source = localhost:1521/SAFAA; User Id = hr; Password = aca;";
+            string conString = "Data Source = gislab-oracle.elfak.ni.ac.rs:1521/SBP_PDB; User Id = S16171; Password = S16171;";
             try
             {
-                //korisnik sa tastature unosi tip filmova
-                //  Console.WriteLine("Uneti tip za koji zelite da odredite broj filmova");
-                // string tip = Console.ReadLine();
-
-                //otvaramo konekciju ka bazi podataka
                 con = new OracleConnection(conString);
                 con.Open();
-
-                //pripremamo komandu koja ce za zadati tip odrediti broj filmova
-
+                string k = textBox1.Text;
                 StringBuilder strSQL = new StringBuilder();
-
-                strSQL.Append("SELECT COUNT(*) ");
-                strSQL.Append(" FROM COUNTRIES ");
-                strSQL.Append(" WHERE REGION_ID= :c ");
-                
-               // strSQL.Append(" AND IZNAJMLJIVANJE.CLAN = :k ");
-              //  string strSQL = "SELECT COUNT(*) FROM COUNTRIES where REGION_ID= 2";
-
+                strSQL.Append("SELECT KORISNICKI_NALOG,SIFRA ");
+                strSQL.Append(" FROM PROFESOR ");
+                strSQL.Append(" WHERE KORISNICKI_NALOG=:k ");
                 OracleCommand cmd = new OracleCommand(strSQL.ToString(), con);
                 cmd.CommandType = System.Data.CommandType.Text;
-
-                OracleParameter param = new OracleParameter("c", OracleDbType.Int32);
-                param.Value = c;
+                OracleParameter param = new OracleParameter("k", OracleDbType.Varchar2);
+                param.Value = k;
                 cmd.Parameters.Add(param);
-
-                //izvrsavamo komandu i prihvatamo skalarnu vrednost
-                decimal brojFilmova = (decimal)cmd.ExecuteScalar();
-
-
-                
-                if (brojFilmova >= 1)
+                OracleDataReader dr = cmd.ExecuteReader();
+                if (dr.HasRows)
                 {
-                    MessageBox.Show("Imamo Profesora" + " " + brojFilmova.ToString());
-                    // pozvati Markovu form1 1
-                   // i.Show();
-
+                    while (dr.Read())
+                    {
+                        string korisnicko = dr.GetString(0);
+                        string sifricaa = dr.GetString(1);
+                        if (sifricaa == "nebitno")
+                            pomZANalog = 0;
+                        else
+                            pomZANalog = 1;
+                    }
                 }
-                else
-                {
-                    MessageBox.Show("POgresna sifra");
-                }
-
             }
             catch (Exception ec)
             {
@@ -107,17 +172,51 @@ namespace projekat_forme_izgled
             {
                 if (con != null && con.State == System.Data.ConnectionState.Open)
                     con.Close();
-
                 con = null;
-            }*/
-            //kisa je padala miki
+            }
+            if (pomZANalog == 0)
+            {
+                Prenos p = new Prenos();
+                p.ime = textBox1.Text;
+                p.tezina = 1;
+                konfiguracijaNaloga k = new konfiguracijaNaloga(p);
+                k.ShowDialog();
+                if (p.tezina == 1)
+                {
+                    this.ActiveControl = label3;
+                    panel4.Visible = true;
+                    panel3.Visible = false;
+                    button4.Visible = false;
+                    button2.Visible = true;
+                    password.Visible = true;
+                    button1.Visible = true;
+                }
+            }
+            else if (pomZANalog == 1)
+            {
+                this.ActiveControl = label3;
+                panel4.Visible = true;
+                panel3.Visible = false;
+                button4.Visible = false;
+                button2.Visible = true;
+                password.Visible = true;
+                button1.Visible = true;
+            }
+            else
+            {
+                MessageBox.Show("Ne postoji korisnicki nalog!", "Greska", MessageBoxButtons.OK, MessageBoxIcon.Error);                
+            }
+            }
+
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+            Loading f = new Loading(1, "", "", "", this);
+            f.Show();
         }
 
-        private void label4_MouseClick(object sender, MouseEventArgs e)
+        private void Formlogin_FormClosing(object sender, FormClosingEventArgs e)
         {
-           // form_struja i = new form_struja(2);
-           // i.Show();markova forma1
-           
+            Application.Exit();
         }
     }
 }

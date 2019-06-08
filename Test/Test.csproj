@@ -32,11 +32,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.18.3, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
-      <HintPath>..\packages\Oracle.ManagedDataAccess.18.3.0\lib\net40\Oracle.ManagedDataAccess.dll</HintPath>
-    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.18.3, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -47,12 +46,43 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Account.Designer.cs">
+      <DependentUpon>Account.cs</DependentUpon>
+    </Compile>
     <Compile Include="Cvor.cs" />
+    <Compile Include="descriptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="descriptions.designer.cs">
+      <DependentUpon>descriptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dodatak.cs" />
+    <Compile Include="Doodler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doodler.designer.cs">
+      <DependentUpon>Doodler.cs</DependentUpon>
+    </Compile>
     <Compile Include="form-login %28Form1%29.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="form-login %28Form1%29.designer.cs">
       <DependentUpon>form-login %28Form1%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form-otpornik %28Form2%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form-otpornik %28Form2%29.designer.cs">
+      <DependentUpon>form-otpornik %28Form2%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form-struja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form-struja.designer.cs">
+      <DependentUpon>form-struja.cs</DependentUpon>
     </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -67,21 +97,121 @@
       <DependentUpon>FormaGrana.cs</DependentUpon>
     </Compile>
     <Compile Include="Grana.cs" />
+    <Compile Include="InfoForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoForma.Designer.cs">
+      <DependentUpon>InfoForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Komentar.cs" />
     <Compile Include="Komponenta.cs" />
+    <Compile Include="konfiguracijaNaloga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="konfiguracijaNaloga.Designer.cs">
+      <DependentUpon>konfiguracijaNaloga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Load.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Load.Designer.cs">
+      <DependentUpon>Load.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loading.Designer.cs">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </Compile>
     <Compile Include="NaponskiGenerator.cs" />
+    <Compile Include="OkrugloDugme.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Otpornik.cs" />
+    <Compile Include="PitaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PitaForma.Designer.cs">
+      <DependentUpon>PitaForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Poteg.cs" />
+    <Compile Include="Prenos.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RadoviForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RadoviForma.Designer.cs">
+      <DependentUpon>RadoviForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandomForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandomForma.Designer.cs">
+      <DependentUpon>RandomForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaveForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaveForma.Designer.cs">
+      <DependentUpon>SaveForma.cs</DependentUpon>
+    </Compile>
     <Compile Include="Sema.cs" />
+    <Compile Include="Sprej.cs" />
+    <Compile Include="StatistickaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StatistickaForma.Designer.cs">
+      <DependentUpon>StatistickaForma.cs</DependentUpon>
+    </Compile>
     <Compile Include="StrujniGenerator.cs" />
+    <Compile Include="Tevenenova.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tevenenova.Designer.cs">
+      <DependentUpon>Tevenenova.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TransparentPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="Account.resx">
+      <DependentUpon>Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="descriptions.resx">
+      <DependentUpon>descriptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doodler.resx">
+      <DependentUpon>Doodler.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="form-login %28Form1%29.resx">
       <DependentUpon>form-login %28Form1%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form-otpornik %28Form2%29.resx">
+      <DependentUpon>form-otpornik %28Form2%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form-struja.resx">
+      <DependentUpon>form-struja.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormaGrana.resx">
       <DependentUpon>FormaGrana.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoForma.resx">
+      <DependentUpon>InfoForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="konfiguracijaNaloga.resx">
+      <DependentUpon>konfiguracijaNaloga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Load.resx">
+      <DependentUpon>Load.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loading.resx">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PitaForma.resx">
+      <DependentUpon>PitaForma.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -93,6 +223,21 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="RadoviForma.resx">
+      <DependentUpon>RadoviForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandomForma.resx">
+      <DependentUpon>RandomForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaveForma.resx">
+      <DependentUpon>SaveForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StatistickaForma.resx">
+      <DependentUpon>StatistickaForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tevenenova.resx">
+      <DependentUpon>Tevenenova.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -108,10 +253,31 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\235624ffcf6f868.jpg" />
+    <None Include="Resources\avatar-black.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10159238_300x300.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\abstract-technology-circuit-board_1035-14043.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black_texture_texture_background_04_hd_picture_169903.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black-texture-texture-background-04-hd-picture_169903.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\FNZSX0UIPZMPCG7.LARGE.jpg" />
@@ -123,15 +289,94 @@
     <None Include="Resources\kisspng-current-source-alternating-current-electric-curren-voltage-source-5b3c06a78cb4b9.1733158615306605195763.jpg" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\logo2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\naocare.gif" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="Resources\nice-background-1-Cool-Backgrounds.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\ovo.jpg" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\profile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\videoblocks-gray-technology-background-with-binary-codes-and-hexagons_bk0payk6x_thumbnail-full01.png" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="Resources\voltmeter.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpaper.wiki-HD-Backgrounds-Electronic-PIC-WPB006919.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wallpapers-Cool-Backgrounds.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2857b014876d04f.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15104-illustration-of-a-green-power-button-icon-pv.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\235624ffcf6f868.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ovo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoveci.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\start.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iksic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\otpornikmanji.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\strujnimanji.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\voltmanji.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kamera.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kamera1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kamera2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Loading....VoltriX1.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>if exist "$(TargetPath).locked" del "$(TargetPath).locked"
+if exist "$(TargetPath)" if not exist "$(TargetPath).locked" move "$(TargetPath)" "$(TargetPath).locked"</PreBuildEvent>
+  </PropertyGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">

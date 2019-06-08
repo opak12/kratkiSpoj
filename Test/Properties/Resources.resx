@@ -118,28 +118,115 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="235624ffcf6f868" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\235624ffcf6f868.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="_2857b014876d04f" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2857b014876d04f.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="abstract-technology-circuit-board_1035-14043" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\abstract-technology-circuit-board_1035-14043.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="logoveci" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logoveci.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="FNZSX0UIPZMPCG7.LARGE" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\FNZSX0UIPZMPCG7.LARGE.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="illustration-lock-icon_53876-5633" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="illustration_lock_icon_53876_5633" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\illustration-lock-icon_53876-5633.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="kisspng-current-source-alternating-current-electric-curren-voltage-source-5b3c06a78cb4b9.1733158615306605195763" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="redo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\redo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wallpaper_wiki_HD_Backgrounds_Electronic_PIC_WPB006919" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wallpaper.wiki-HD-Backgrounds-Electronic-PIC-WPB006919.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_10159238_300x300" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\10159238_300x300.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kisspng_current_source_alternating_current_electric_curren_voltage_source_5b3c06a78cb4b9_1733158615306605195763" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\kisspng-current-source-alternating-current-electric-curren-voltage-source-5b3c06a78cb4b9.1733158615306605195763.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="nice-background-1-Cool-Backgrounds" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="_15104_illustration_of_a_green_power_button_icon_pv" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\15104-illustration-of-a-green-power-button-icon-pv.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="profile" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\profile.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="voltmanji" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\voltmanji.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="undo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\undo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ground" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ground.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="profile3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\profile31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_235624ffcf6f868" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\235624ffcf6f868.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kamera" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kamera.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nice_background_1_Cool_Backgrounds" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\nice-background-1-Cool-Backgrounds.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ovo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ovo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="logo2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Wallpapers_Cool_Backgrounds" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Wallpapers-Cool-Backgrounds.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="abstract_technology_circuit_board_1035_14043" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\abstract-technology-circuit-board_1035-14043.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="asd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\asd.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="black_texture_texture_background_04_hd_picture_169903" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\black_texture_texture_background_04_hd_picture_169903.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="otpornikmanji" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\otpornikmanji.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iksic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iksic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="voltmeter" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\voltmeter.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="naocare" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\naocare.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FNZSX0UIPZMPCG7_LARGE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FNZSX0UIPZMPCG7.LARGE.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="download" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\download.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kamera2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kamera2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="videoblocks_gray_technology_background_with_binary_codes_and_hexagons_bk0payk6x_thumbnail_full01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\videoblocks-gray-technology-background-with-binary-codes-and-hexagons_bk0payk6x_thumbnail-full01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ovo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ovo.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kamera1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kamera1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="strujnimanji" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\strujnimanji.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="setting2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\setting2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="start" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\start.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="black_texture_texture_background_04_hd_picture_1699031" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\black-texture-texture-background-04-hd-picture_169903.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="Loading....VoltriX" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Loading....VoltriX1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

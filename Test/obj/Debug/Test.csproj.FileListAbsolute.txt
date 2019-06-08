@@ -33,3 +33,729 @@ C:\Users\Aleksandar\Desktop\Test\Test\obj\Debug\Test.pdb
 C:\Users\Aleksandar\Desktop\Test\Test\bin\Debug\Oracle.ManagedDataAccess.dll
 C:\Users\Aleksandar\Desktop\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
 C:\Users\Aleksandar\Desktop\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Aleksandar\Desktop\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+C:\Users\Aleksandar\Desktop\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+C:\Users\Aleksandar\Desktop\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+F:\nikola\3 godina\2 semestar\projekat\Test\Test\bin\Debug\Test.exe.config
+F:\nikola\3 godina\2 semestar\projekat\Test\Test\obj\Debug\Test.exe
+F:\nikola\3 godina\2 semestar\projekat\Test\Test\obj\Debug\Test.pdb
+F:\nikola\3 godina\2 semestar\projekat\Test\Test\bin\Debug\Test.exe
+F:\nikola\3 godina\2 semestar\projekat\Test\Test\bin\Debug\Test.pdb
+F:\nikola\3 godina\2 semestar\projekat\Test\Test\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\nikola\3 godina\2 semestar\projekat\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+F:\nikola\3 godina\2 semestar\projekat\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+F:\nikola\3 godina\2 semestar\projekat\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+F:\nikola\3 godina\2 semestar\projekat\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+F:\nikola\3 godina\2 semestar\projekat\Test\Test\obj\Debug\Test.Form1.resources
+F:\nikola\3 godina\2 semestar\projekat\Test\Test\obj\Debug\Test.FormaGrana.resources
+F:\nikola\3 godina\2 semestar\projekat\Test\Test\obj\Debug\Test.Properties.Resources.resources
+F:\nikola\3 godina\2 semestar\projekat\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+F:\nikola\3 godina\2 semestar\projekat\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\nikola\3 godina\2 semestar\projekat\Test\Test\obj\Debug\Test.Account.resources
+F:\nikola\3 godina\2 semestar\projekat\Test\Test\obj\Debug\Test.Loading.resources
+D:\Downloads\projekat\projekat\Test\Test\bin\Debug\Test.exe.config
+D:\Downloads\projekat\projekat\Test\Test\bin\Debug\Test.exe
+D:\Downloads\projekat\projekat\Test\Test\bin\Debug\Test.pdb
+D:\Downloads\projekat\projekat\Test\Test\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Downloads\projekat\projekat\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Downloads\projekat\projekat\Test\Test\obj\Debug\Test.Account.resources
+D:\Downloads\projekat\projekat\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+D:\Downloads\projekat\projekat\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+D:\Downloads\projekat\projekat\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+D:\Downloads\projekat\projekat\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+D:\Downloads\projekat\projekat\Test\Test\obj\Debug\Test.Form1.resources
+D:\Downloads\projekat\projekat\Test\Test\obj\Debug\Test.FormaGrana.resources
+D:\Downloads\projekat\projekat\Test\Test\obj\Debug\Test.Loading.resources
+D:\Downloads\projekat\projekat\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Downloads\projekat\projekat\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\Downloads\projekat\projekat\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Downloads\projekat\projekat\Test\Test\obj\Debug\Test.csproj.CopyComplete
+D:\Downloads\projekat\projekat\Test\Test\obj\Debug\Test.exe
+D:\Downloads\projekat\projekat\Test\Test\obj\Debug\Test.pdb
+D:\projekat\projekat\Test\Test\bin\Debug\Test.exe.config
+D:\projekat\projekat\Test\Test\bin\Debug\Test.exe
+D:\projekat\projekat\Test\Test\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\projekat\projekat\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\projekat\projekat\Test\Test\obj\Debug\Test.Account.resources
+D:\projekat\projekat\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+D:\projekat\projekat\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+D:\projekat\projekat\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+D:\projekat\projekat\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+D:\projekat\projekat\Test\Test\obj\Debug\Test.Form1.resources
+D:\projekat\projekat\Test\Test\obj\Debug\Test.FormaGrana.resources
+D:\projekat\projekat\Test\Test\obj\Debug\Test.Loading.resources
+D:\projekat\projekat\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\projekat\projekat\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\projekat\projekat\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\projekat\projekat\Test\Test\obj\Debug\Test.csproj.CopyComplete
+D:\projekat\projekat\Test\Test\obj\Debug\Test.exe
+D:\projekat\projekat\Test\Test\obj\Debug\Test.pdb
+D:\projekat\projekat\Test\Test\bin\Debug\Test.pdb
+G:\projekat\projekat\Test\Test\bin\Debug\Test.exe.config
+G:\projekat\projekat\Test\Test\obj\Debug\Test.exe
+G:\projekat\projekat\Test\Test\obj\Debug\Test.pdb
+G:\projekat\projekat\Test\Test\bin\Debug\Test.exe
+G:\projekat\projekat\Test\Test\bin\Debug\Test.pdb
+G:\projekat\projekat\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+G:\projekat\projekat\Test\Test\obj\Debug\Test.Account.resources
+G:\projekat\projekat\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+G:\projekat\projekat\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+G:\projekat\projekat\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+G:\projekat\projekat\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+G:\projekat\projekat\Test\Test\obj\Debug\Test.Form1.resources
+G:\projekat\projekat\Test\Test\obj\Debug\Test.FormaGrana.resources
+G:\projekat\projekat\Test\Test\obj\Debug\Test.Loading.resources
+G:\projekat\projekat\Test\Test\obj\Debug\Test.Properties.Resources.resources
+G:\projekat\projekat\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+G:\projekat\projekat\Test\Test\obj\Debug\Test.StatistickaForma.resources
+G:\projekat\projekat\Test\Test\obj\Debug\Test.PitaForma.resources
+E:\projekat\projekat\Test\Test\bin\Debug\Test.exe.config
+E:\projekat\projekat\Test\Test\bin\Debug\Test.exe
+E:\projekat\projekat\Test\Test\bin\Debug\Test.pdb
+E:\projekat\projekat\Test\Test\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\projekat\projekat\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\projekat\projekat\Test\Test\obj\Debug\Test.Account.resources
+E:\projekat\projekat\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+E:\projekat\projekat\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+E:\projekat\projekat\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+E:\projekat\projekat\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+E:\projekat\projekat\Test\Test\obj\Debug\Test.Form1.resources
+E:\projekat\projekat\Test\Test\obj\Debug\Test.FormaGrana.resources
+E:\projekat\projekat\Test\Test\obj\Debug\Test.Loading.resources
+E:\projekat\projekat\Test\Test\obj\Debug\Test.PitaForma.resources
+E:\projekat\projekat\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\projekat\projekat\Test\Test\obj\Debug\Test.StatistickaForma.resources
+E:\projekat\projekat\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+E:\projekat\projekat\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\projekat\projekat\Test\Test\obj\Debug\Test.csproj.CopyComplete
+E:\projekat\projekat\Test\Test\obj\Debug\Test.exe
+E:\projekat\projekat\Test\Test\obj\Debug\Test.pdb
+G:\projekat\projekat\Test\Test\obj\Debug\Test.SaveForma.resources
+G:\projekat\projekat\Test\Test\obj\Debug\Test.Load.resources
+C:\Users\Aleksandar\Desktop\GrupaDPonovo\projekat\projekat\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Aleksandar\Desktop\GrupaDPonovo\projekat\projekat\Test\Test\bin\Debug\Test.exe
+C:\Users\Aleksandar\Desktop\GrupaDPonovo\projekat\projekat\Test\Test\bin\Debug\Test.pdb
+C:\Users\Aleksandar\Desktop\GrupaDPonovo\projekat\projekat\Test\Test\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Aleksandar\Desktop\GrupaDPonovo\projekat\projekat\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\GrupaDPonovo\projekat\projekat\Test\Test\obj\Debug\Test.Account.resources
+C:\Users\Aleksandar\Desktop\GrupaDPonovo\projekat\projekat\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+C:\Users\Aleksandar\Desktop\GrupaDPonovo\projekat\projekat\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+C:\Users\Aleksandar\Desktop\GrupaDPonovo\projekat\projekat\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+C:\Users\Aleksandar\Desktop\GrupaDPonovo\projekat\projekat\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+C:\Users\Aleksandar\Desktop\GrupaDPonovo\projekat\projekat\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Aleksandar\Desktop\GrupaDPonovo\projekat\projekat\Test\Test\obj\Debug\Test.FormaGrana.resources
+C:\Users\Aleksandar\Desktop\GrupaDPonovo\projekat\projekat\Test\Test\obj\Debug\Test.Load.resources
+C:\Users\Aleksandar\Desktop\GrupaDPonovo\projekat\projekat\Test\Test\obj\Debug\Test.Loading.resources
+C:\Users\Aleksandar\Desktop\GrupaDPonovo\projekat\projekat\Test\Test\obj\Debug\Test.PitaForma.resources
+C:\Users\Aleksandar\Desktop\GrupaDPonovo\projekat\projekat\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\GrupaDPonovo\projekat\projekat\Test\Test\obj\Debug\Test.SaveForma.resources
+C:\Users\Aleksandar\Desktop\GrupaDPonovo\projekat\projekat\Test\Test\obj\Debug\Test.StatistickaForma.resources
+C:\Users\Aleksandar\Desktop\GrupaDPonovo\projekat\projekat\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Aleksandar\Desktop\GrupaDPonovo\projekat\projekat\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\GrupaDPonovo\projekat\projekat\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Aleksandar\Desktop\GrupaDPonovo\projekat\projekat\Test\Test\obj\Debug\Test.exe
+C:\Users\Aleksandar\Desktop\GrupaDPonovo\projekat\projekat\Test\Test\obj\Debug\Test.pdb
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat\Test\Test\bin\Debug\Test.exe.config
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat\Test\Test\obj\Debug\Test.exe
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat\Test\Test\obj\Debug\Test.pdb
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat\Test\Test\bin\Debug\Test.exe
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat\Test\Test\bin\Debug\Test.pdb
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat\Test\Test\obj\Debug\Test.Account.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat\Test\Test\obj\Debug\Test.Form1.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat\Test\Test\obj\Debug\Test.FormaGrana.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat\Test\Test\obj\Debug\Test.Load.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat\Test\Test\obj\Debug\Test.Loading.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat\Test\Test\obj\Debug\Test.PitaForma.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat\Test\Test\obj\Debug\Test.Properties.Resources.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat\Test\Test\obj\Debug\Test.SaveForma.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat\Test\Test\obj\Debug\Test.StatistickaForma.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat asd\Test\Test\bin\Debug\Test.exe.config
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.exe
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.pdb
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat asd\Test\Test\bin\Debug\Test.exe
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat asd\Test\Test\bin\Debug\Test.pdb
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.Account.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat asd\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat asd\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat asd\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat asd\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.Form1.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.FormaGrana.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.Load.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.Loading.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.PitaForma.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.Properties.Resources.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.SaveForma.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.StatistickaForma.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+F:\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+F:\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.Account.resources
+F:\projekat nova verzija\projekat asd\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+F:\projekat nova verzija\projekat asd\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+F:\projekat nova verzija\projekat asd\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+F:\projekat nova verzija\projekat asd\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+F:\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.Form1.resources
+F:\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.FormaGrana.resources
+F:\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.Load.resources
+F:\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.Loading.resources
+F:\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.PitaForma.resources
+F:\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.Properties.Resources.resources
+F:\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.SaveForma.resources
+F:\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.StatistickaForma.resources
+F:\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.Tevenenova.resources
+F:\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+F:\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+F:\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.exe
+F:\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.pdb
+F:\projekat nova verzija\projekat asd\Test\Test\bin\Debug\Test.exe.config
+F:\projekat nova verzija\projekat asd\Test\Test\bin\Debug\Test.exe
+F:\projekat nova verzija\projekat asd\Test\Test\bin\Debug\Test.pdb
+F:\projekat nova verzija\projekat asd\Test\Test\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.csproj.CopyComplete
+F:\projekat nova verzija\projekat asd\Test\Test\obj\Debug\Test.konfiguracijaNaloga.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++\projekat asd\Test\Test\bin\Debug\Test.exe.config
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++\projekat asd\Test\Test\obj\Debug\Test.exe
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++\projekat asd\Test\Test\obj\Debug\Test.pdb
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++\projekat asd\Test\Test\bin\Debug\Test.exe
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++\projekat asd\Test\Test\bin\Debug\Test.pdb
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++\projekat asd\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++\projekat asd\Test\Test\obj\Debug\Test.Account.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++\projekat asd\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++\projekat asd\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++\projekat asd\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++\projekat asd\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++\projekat asd\Test\Test\obj\Debug\Test.Form1.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++\projekat asd\Test\Test\obj\Debug\Test.FormaGrana.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++\projekat asd\Test\Test\obj\Debug\Test.konfiguracijaNaloga.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++\projekat asd\Test\Test\obj\Debug\Test.Load.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++\projekat asd\Test\Test\obj\Debug\Test.Loading.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++\projekat asd\Test\Test\obj\Debug\Test.PitaForma.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++\projekat asd\Test\Test\obj\Debug\Test.Properties.Resources.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++\projekat asd\Test\Test\obj\Debug\Test.SaveForma.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++\projekat asd\Test\Test\obj\Debug\Test.StatistickaForma.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++\projekat asd\Test\Test\obj\Debug\Test.Tevenenova.resources
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++\projekat asd\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++ nova\projekat asd\Test\Test\bin\Debug\Test.exe.config
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.exe
+F:\nikola\3 godina\2 semestar\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.pdb
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\bin\Debug\Test.exe.config
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\bin\Debug\Test.exe
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\bin\Debug\Test.pdb
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.Account.resources
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.Form1.resources
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.FormaGrana.resources
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.konfiguracijaNaloga.resources
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.Load.resources
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.Loading.resources
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.PitaForma.resources
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.Properties.Resources.resources
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.SaveForma.resources
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.StatistickaForma.resources
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.Tevenenova.resources
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.csproj.CopyComplete
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.exe
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.pdb
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.Doodler.resources
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\bin\Debug\Test.exe.config
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.exe
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.pdb
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.Account.resources
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.Doodler.resources
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.Form1.resources
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.FormaGrana.resources
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.konfiguracijaNaloga.resources
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.Load.resources
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.Loading.resources
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.PitaForma.resources
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.Properties.Resources.resources
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.SaveForma.resources
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.StatistickaForma.resources
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.Tevenenova.resources
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\bin\Debug\Test.exe
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\bin\Debug\Test.pdb
+G:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.RandomForma.resources
+F:\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.RandomForma.resources
+C:\Users\Krstic\Desktop\projekat nova verzija ++ nova\projekat asd\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Krstic\Desktop\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.exe
+C:\Users\Krstic\Desktop\projekat nova verzija ++ nova\projekat asd\Test\Test\obj\Debug\Test.pdb
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe.config
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.exe
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.pdb
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.pdb
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Account.resources
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Doodler.resources
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Form1.resources
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.FormaGrana.resources
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.konfiguracijaNaloga.resources
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Load.resources
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Loading.resources
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.PitaForma.resources
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Properties.Resources.resources
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RandomForma.resources
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.SaveForma.resources
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.StatistickaForma.resources
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Tevenenova.resources
+F:\nikola\3 godina\2 semestar\Voltrix-master\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.exe
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.pdb
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.pdb
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Account.resources
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Doodler.resources
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.FormaGrana.resources
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.konfiguracijaNaloga.resources
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Load.resources
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Loading.resources
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.PitaForma.resources
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RandomForma.resources
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.SaveForma.resources
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.StatistickaForma.resources
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Tevenenova.resources
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.InfoForma.resources
+C:\Users\Krstic\Desktop\Voltrix-master ++\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RadoviForma.resources
+C:\Users\Krstic\Desktop\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Krstic\Desktop\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.exe
+C:\Users\Krstic\Desktop\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.pdb
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe.config
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.pdb
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Account.resources
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Doodler.resources
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Form1.resources
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.FormaGrana.resources
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.InfoForma.resources
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.konfiguracijaNaloga.resources
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Load.resources
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Loading.resources
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.PitaForma.resources
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RadoviForma.resources
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RandomForma.resources
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.SaveForma.resources
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.StatistickaForma.resources
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Tevenenova.resources
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csproj.CopyComplete
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.exe
+D:\Downloads\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.pdb
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.pdb
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Account.resources
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Doodler.resources
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.FormaGrana.resources
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.InfoForma.resources
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.konfiguracijaNaloga.resources
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Load.resources
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Loading.resources
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.PitaForma.resources
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RadoviForma.resources
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RandomForma.resources
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.SaveForma.resources
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.StatistickaForma.resources
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Tevenenova.resources
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.exe
+C:\Users\Aleksandar\Desktop\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.pdb
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.exe
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.pdb
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.pdb
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Account.resources
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Doodler.resources
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.FormaGrana.resources
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.InfoForma.resources
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.konfiguracijaNaloga.resources
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Load.resources
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Loading.resources
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.PitaForma.resources
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RadoviForma.resources
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RandomForma.resources
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.SaveForma.resources
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.StatistickaForma.resources
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Tevenenova.resources
+C:\Users\Krstic\Desktop\Kod\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe.config
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.exe
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.pdb
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.pdb
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Account.resources
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Doodler.resources
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Form1.resources
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.FormaGrana.resources
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.InfoForma.resources
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.konfiguracijaNaloga.resources
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Load.resources
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Loading.resources
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.PitaForma.resources
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Properties.Resources.resources
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RadoviForma.resources
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RandomForma.resources
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.SaveForma.resources
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.StatistickaForma.resources
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Tevenenova.resources
+F:\nikola\3 godina\2 semestar\swe\End_is_near\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.exe
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.pdb
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.pdb
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Account.resources
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Doodler.resources
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.FormaGrana.resources
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.InfoForma.resources
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.konfiguracijaNaloga.resources
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Load.resources
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Loading.resources
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.PitaForma.resources
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RadoviForma.resources
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RandomForma.resources
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.SaveForma.resources
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.StatistickaForma.resources
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Tevenenova.resources
+C:\Users\Krstic\Desktop\select\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe.config
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.exe
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.pdb
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.pdb
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Account.resources
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Doodler.resources
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Form1.resources
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.FormaGrana.resources
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.InfoForma.resources
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.konfiguracijaNaloga.resources
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Load.resources
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Loading.resources
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.PitaForma.resources
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Properties.Resources.resources
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RadoviForma.resources
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RandomForma.resources
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.SaveForma.resources
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.StatistickaForma.resources
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Tevenenova.resources
+F:\nikola\3 godina\2 semestar\swe\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.exe
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.pdb
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.pdb
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Account.resources
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Doodler.resources
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.FormaGrana.resources
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.InfoForma.resources
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.konfiguracijaNaloga.resources
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Load.resources
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Loading.resources
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.PitaForma.resources
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RadoviForma.resources
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RandomForma.resources
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.SaveForma.resources
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.StatistickaForma.resources
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Tevenenova.resources
+C:\Users\Krstic\Desktop\Zeleni Krug\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe.config
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.pdb
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Account.resources
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Doodler.resources
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Form1.resources
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.FormaGrana.resources
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.InfoForma.resources
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.konfiguracijaNaloga.resources
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Load.resources
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Loading.resources
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.PitaForma.resources
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RadoviForma.resources
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RandomForma.resources
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.SaveForma.resources
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.StatistickaForma.resources
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Tevenenova.resources
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csproj.CopyComplete
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.exe
+E:\najnoviji projekat\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.pdb
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.exe
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.pdb
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.pdb
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Account.resources
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Doodler.resources
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.FormaGrana.resources
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.InfoForma.resources
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.konfiguracijaNaloga.resources
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Load.resources
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Loading.resources
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.PitaForma.resources
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RadoviForma.resources
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RandomForma.resources
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.SaveForma.resources
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.StatistickaForma.resources
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Tevenenova.resources
+C:\Users\Krstic\Desktop\Dizi HTML\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe.config
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.pdb
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Account.resources
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Doodler.resources
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Form1.resources
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.FormaGrana.resources
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.InfoForma.resources
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.konfiguracijaNaloga.resources
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Load.resources
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Loading.resources
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.PitaForma.resources
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RadoviForma.resources
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RandomForma.resources
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.SaveForma.resources
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.StatistickaForma.resources
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Tevenenova.resources
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csproj.CopyComplete
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.exe
+E:\finale\End_is_near++\End is near\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.pdb
+F:\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe.config
+F:\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.exe
+F:\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.pdb
+F:\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.exe
+F:\KrajnjaVerzija\projekat _asd\Test\Test\bin\Debug\Test.pdb
+F:\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Account.resources
+F:\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+F:\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Doodler.resources
+F:\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+F:\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+F:\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+F:\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Form1.resources
+F:\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.FormaGrana.resources
+F:\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.InfoForma.resources
+F:\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.konfiguracijaNaloga.resources
+F:\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Load.resources
+F:\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Loading.resources
+F:\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.PitaForma.resources
+F:\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Properties.Resources.resources
+F:\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RadoviForma.resources
+F:\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.RandomForma.resources
+F:\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.SaveForma.resources
+F:\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.StatistickaForma.resources
+F:\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.Tevenenova.resources
+F:\KrajnjaVerzija\projekat _asd\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+F:\KRAJ\projekat _asd\Test\Test\bin\Debug\Test.exe.config
+F:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.exe
+F:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.pdb
+F:\KRAJ\projekat _asd\Test\Test\bin\Debug\Test.exe
+F:\KRAJ\projekat _asd\Test\Test\bin\Debug\Test.pdb
+F:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Account.resources
+F:\KRAJ\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+F:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Doodler.resources
+F:\KRAJ\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+F:\KRAJ\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+F:\KRAJ\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+F:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Form1.resources
+F:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.FormaGrana.resources
+F:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.InfoForma.resources
+F:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.konfiguracijaNaloga.resources
+F:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Load.resources
+F:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Loading.resources
+F:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.PitaForma.resources
+F:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Properties.Resources.resources
+F:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.RadoviForma.resources
+F:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.RandomForma.resources
+F:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.SaveForma.resources
+F:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.StatistickaForma.resources
+F:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Tevenenova.resources
+F:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\KRAJ\projekat _asd\Test\Test\bin\Debug\Test.exe.config
+E:\KRAJ\projekat _asd\Test\Test\bin\Debug\Test.exe
+E:\KRAJ\projekat _asd\Test\Test\bin\Debug\Test.pdb
+E:\KRAJ\projekat _asd\Test\Test\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Account.resources
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Doodler.resources
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Form1.resources
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.FormaGrana.resources
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.InfoForma.resources
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.konfiguracijaNaloga.resources
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Load.resources
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Loading.resources
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.PitaForma.resources
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.RadoviForma.resources
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.RandomForma.resources
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.SaveForma.resources
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.StatistickaForma.resources
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Tevenenova.resources
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.csproj.CopyComplete
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.exe
+E:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.pdb
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\bin\Debug\Test.exe
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\bin\Debug\Test.pdb
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Account.resources
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Doodler.resources
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.FormaGrana.resources
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.InfoForma.resources
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.konfiguracijaNaloga.resources
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Load.resources
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Loading.resources
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.PitaForma.resources
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.RadoviForma.resources
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.RandomForma.resources
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.SaveForma.resources
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.StatistickaForma.resources
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Tevenenova.resources
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.exe
+C:\Users\Aleksandar\Desktop\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.pdb
+G:\KRAJ\projekat _asd\Test\Test\bin\Debug\Test.exe.config
+G:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.exe
+G:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.pdb
+G:\KRAJ\projekat _asd\Test\Test\bin\Debug\Test.exe
+G:\KRAJ\projekat _asd\Test\Test\bin\Debug\Test.pdb
+G:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+G:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Account.resources
+G:\KRAJ\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.descriptions.resources
+G:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Doodler.resources
+G:\KRAJ\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Formlogin.resources
+G:\KRAJ\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.Form2.resources
+G:\KRAJ\projekat _asd\Test\Test\obj\Debug\projekat_forme_izgled.form_struja.resources
+G:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Form1.resources
+G:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.FormaGrana.resources
+G:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.InfoForma.resources
+G:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.konfiguracijaNaloga.resources
+G:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Load.resources
+G:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Loading.resources
+G:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.PitaForma.resources
+G:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Properties.Resources.resources
+G:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.RadoviForma.resources
+G:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.RandomForma.resources
+G:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.SaveForma.resources
+G:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.StatistickaForma.resources
+G:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.Tevenenova.resources
+G:\KRAJ\projekat _asd\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
